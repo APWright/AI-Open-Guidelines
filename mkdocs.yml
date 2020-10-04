@@ -1,0 +1,12 @@
+site_name: AI Open Guidelines
+
+nav:
+  - Introduction: index.md
+  - "Catgegories":
+      - Initial Considerations: Initial-Considerations.md
+      - Model: Model.md
+      - Deployment: Deployment.md
+      - Interface: Interface.md
+
+theme:
+  name: readthedocs
