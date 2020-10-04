@@ -5,15 +5,12 @@
 - Review how often your data sources are refreshed
 - Collect live data from users
 - Provide easy access to labels
-- Use existing dataset
 - Translate user needs into data needs
 - Only introduce new features when needed
-- Data collection + evaluation
 - Identify your data sources
 - Identify any outliers, and investigate whether they are actual outliers
   or due to errors in the data
 - Source your data responsibly
-- Build your own dataset
 - Design for raters and labeling
 - Split your data
 - Let raters change their minds
