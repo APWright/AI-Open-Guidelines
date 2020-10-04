@@ -5,7 +5,6 @@
 - Explain the benefit, not the technology
 - Use simple, direct language to describe each explicit feedback option and its consequences
 - Optimize for understanding
-- Explainability + Trust
 - Note special cases of absent or comprehensive explanation
 - Explanation via interaction
 - Example-based explanations
@@ -19,9 +18,9 @@
 
 - Model confidence displays
 - Decide how best to show model confidence
-- Categorical
-- N-best alternatives
-- Numeric
+  - Categorical
+  - N-best alternatives
+  - Numeric
 - Determine if you should show confidence
 - When you know that confidence values correspond to result quality, you generally want to avoid showing results when confidence is low.
 - Consider changing how you present results based on different confidence thresholds
