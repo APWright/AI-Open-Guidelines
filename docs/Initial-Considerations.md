@@ -1,7 +1,5 @@
 # Initial Considerations
 
-enter in some stuff here
-
 ## Value of AI
 
 - Find the intersection of user needs & AI strengths.
