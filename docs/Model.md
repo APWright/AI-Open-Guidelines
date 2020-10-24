@@ -15,10 +15,10 @@
 - Split your data
 - Let raters change their minds
 - Evaluate rater tools
-- Missing or incomplete data
-- Unexpected input
+- Consider missing or incomplete data
+- Consider unexpected input
 - Investigate rater context and incentives
-- Articulate data sources
+- Articulate your data sources
 - Beware of confirmation bias
 
 ## Training Procedure
@@ -32,5 +32,4 @@
 - Tune your model
 - Map existing workflows
 - Design and evaluate the reward function
-- User needs and defining success
 - Design for model tuning
