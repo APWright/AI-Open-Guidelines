@@ -4,11 +4,11 @@
 
 ### Error Types
 
-- Identify error sources.
-- Background errors.
-- Context errors
-- Mislabeled or misclassified results
-- Poor inference or incorrect model
+- Identify error sources
+- Consider background errors
+- Consider context errors
+- Consider mislabeled or misclassified results
+- Consider poor inference or incorrect model
 
 ### Error Prevention
 
@@ -26,7 +26,7 @@
 - As you work on reducing mistakes in one area, always consider the effect your work has on other areas and overall accuracy
 - When possible, address mistakes without complicating the UI
 - Learn from corrections when it makes sense
-- When possible, use guided corrections instead of freeform - corrections
+- When possible, use guided corrections instead of freeform corrections
 - Let people correct their corrections
 - Provide immediate value when people make a correction
 - Give people familiar easy ways to make corrections
